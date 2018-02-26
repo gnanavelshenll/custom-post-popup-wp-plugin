@@ -1,0 +1,19 @@
+/* custome testimonials style*/
+.testimonial-client-name{text-align:center;font-weight:bold;	font-size:17px;margin-top: 15px;margin-bottom: 6px;}
+.testimonial-client-city{text-align:center;	font-size:14px;margin-top: 5px;margin-bottom: 6px;font-size: 12px !important;height: 35px;}
+.cs_readmore{text-align:center;}
+.testimonial-text{text-align:center;font-family: inherit;font-size: 13px;}
+.testimonialimg{margin: auto;float: none;}
+.fancyboxcont{display:none;}
+.fancybox-opened{width: 60% !important;}
+.fancybox-inner{width:100% !important;}
+.testimonialpopupimg{float:right;padding-left: 25px;padding-bottom: 15px;padding-top: 7px;width:25%;}
+.popuptitlecont{text-align:center;}
+.popuptitlecont .popuptitle{display: inline-block;padding-right: 20px;margin-top: 10px;padding-top: 5px;font-size: 23px;}
+.popuptitlecont .popuprolecity{display:inline-block;font-size: 12px;}
+.fancybox-opened .fancybox-skin {padding:0px !important;}
+.popupmailtxtcont{line-height: 25px;padding-left: 30px !important;padding-right: 30px !important;padding-bottom: 20px;padding-top: 25px;text-align: justify;font-family: 'Open Sans', sans-serif;font-size: 13px; color: #000;}
+.popuptitlemaincont{background-color:#F5F2F2;}
+.singletestimonialcont{min-height: 390px;padding-bottom: 20px;}
+.various{font-size: 13px;}
+@media(max-width:767px){.testimonialpopupimg {float: none; padding-left: 0px;margin: auto;}.fancybox-opened {width: 85% !important;left: 7% !important;}}
